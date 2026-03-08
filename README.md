@@ -1,0 +1,1 @@
+I’m interested in crypto trading, especially on Binance. While studying Binance Futures, I built this project to calculate leverage, margin, profit, and loss. Since futures trading is highly risky, this tool helps me understand these concepts and simulate outcomes before making real investments.
